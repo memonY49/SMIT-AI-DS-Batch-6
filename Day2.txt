@@ -1,0 +1,22 @@
+Data Types:
+	Primary: int, float, bool 
+	Secondary: list, dict, set, tuple, string
+
+int:  7
+float: 7.0, 7.5
+bool: True, False
+string: 'A', "AHBjhsbvvjhbvj"
+
+
+"7.0"
+
+operands: on which operation is to be performed
+Operator: Operation to be performed
+
+Arithmetic Operators:
+	Addition: + 
+	Subtraction: -
+	Div: /
+	Mul: *
+	Modulus: %
+

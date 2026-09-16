@@ -1,0 +1,68 @@
+Conditional statement:
+		These statements are used for rule base action.
+	if:
+	-> the body of if will only be executed if the condition is true.
+	syntax for if condition:
+		if condition:
+			body of if
+	esle:
+	-> the body of else will be executed if the condition associated with if is false
+	-> else can only be used when there is a if statement before.
+	syntax of else:
+		else:
+			body of else
+
+How to take input from user:
+	You can use 'input' function
+	Syntax:
+		input()
+
+Data Convergence:
+	Implicit: smaller data type into large data type
+	Explicit: larger to smaller data type or forcefully converting one not possible convergence. 
+
+
+
+			
+
+Task 1: Positive or Negative
+
+	Write a program that takes a number from the user 
+	and checks whether the number is positive or negative.
+
+Task 2: Even or Odd
+
+	Write a program that takes an integer and 
+	checks whether it is even or odd.
+
+Task 3: Pass or Fail
+
+	Write a program that takes a student's marks. 
+	If the marks are 50 or above, display "Pass", otherwise display "Fail".
+
+Task 4: Voting Eligibility
+
+	Write a program that asks the user for their age. 
+	If the age is 18 or above, display "Eligible to vote", otherwise display "Not eligible to vote".
+
+Task 5: Greater Number
+
+	Write a program that takes two numbers from the user and 
+	displays which number is greater. If both are equal, display "Both are equal".
+
+Task 6: Temperature Check
+
+	Write a program that takes temperature in Celsius. 
+	If the temperature is 92f or above, display "fever", otherwise display "Normal".
+	formula 
+		f = (c * 9/5) + 32
+
+
+
+
+
+
+
+
+	
+		
