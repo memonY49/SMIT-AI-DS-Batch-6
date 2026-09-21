@@ -1,0 +1,10 @@
+Nested if:
+	syntax: 
+		if condition:
+			body of outer if
+			if condition:
+				body of inner if
+			else:
+				body of else with inner if
+		else:
+			body of else with outer if

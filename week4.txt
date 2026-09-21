@@ -1,0 +1,15 @@
+print function:
+	it converts non string values to show/print on the console.
+	kwargs:
+		sep: Separates multiple values in a print.
+		end: Changes the line-end value from '\n' to any value.
+
+
+
+
+Loops:
+	It is used to repeat a block of code multiple times in Python until the condition returns true.
+	Types of loops in python:
+	1. for loop:
+		syntax: for counter in range(lowerbound , upperbound , inc/dec):
+				body of for loop
