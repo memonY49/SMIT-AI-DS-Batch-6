@@ -13,3 +13,12 @@ Loops:
 	1. for loop:
 		syntax: for counter in range(lowerbound , upperbound , inc/dec):
 				body of for loop
+	2. while loop:
+		syntax: 
+			counter init
+			while condition:
+				body of while
+				inc/dec
+
+
+
