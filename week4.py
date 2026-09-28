@@ -146,6 +146,7 @@ print("Fact!:",fact)
 """
 
 #Task6
+"""
 total = 0
 num = 1
 while num != 0:
@@ -154,7 +155,7 @@ while num != 0:
 
 
 print("Total is:",total)
-    
+"""    
 
 
 
