@@ -1,0 +1,54 @@
+list: Is The collection of heterogenous type of elements.
+	syntax:
+		name_of_the_list = [1,3.5,"A",True]	
+
+=> List is the ordered collection
+=> To access any element from the list you can use index
+	syntax:
+		name_of_the_list[index]
+
+
+
+Tuple: Is The immutable collection of heterogenous type of elements.
+	syntax:
+		name_of_the_tuple = (1,3.5,'A',True)
+=> Tuple is the ordered collection
+=> To access any element from the tuple you can use index
+	syntax:
+		name_of_the_tuple[index]
+
+
+
+
+
+
+Set: Is The unordered collection of heterogenous type of distinct elements.
+	syntax:
+		name_of_the_set = {1,3.5,"A",False}
+
+
+
+
+
+List Functions: 
+	append( Element to add)	Adds an element at the end of the list
+	extend()		Add the elements of a list (or any iterable), to the end of the current list
+	index(Element)		Returns the index of the first element with the specified value
+	clear()			Removes all the elements from the list
+	copy()			Returns a copy of the list
+	count(Element)		Returns the number of elements with the specified value
+	insert(Index, Element)	Adds an element at the specified position
+	pop()			Removes the element at the last of the list
+	remove(Element)		Removes the item with the specified value
+	reverse()		Reverses the order of the list
+	sort()			Sorts the list
+
+
+
+
+=> To call any method the syntax is:
+				
+			object_of_the_class.func()
+		example:
+			mylist = [1,2,3,4,5]
+			mylist.pop()
