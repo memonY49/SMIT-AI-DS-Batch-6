@@ -42,9 +42,6 @@ C = {40,50,80,90,100}
 
 print(A & B & C)
 
-
-
-
 """
 => Find elements present in exactly two sets.
         ((A ^ B) - C) U ((A ^ C) - B) U ((B ^ C) - A)
