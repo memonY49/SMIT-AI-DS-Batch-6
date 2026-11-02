@@ -103,7 +103,7 @@ if user_input in product.keys():
     print(f"Product: {user_input}\nPrice: {product[user_input]}")
     print("*"*20)
 else:
-    print("Pruct does not exist...!!")
+    print("Product does not exist...!!")
 """
 """
 Task 2: Student Marks Management
@@ -193,8 +193,8 @@ data = {"std1":{"name":"Yasir1",
                 "email":"abc@gmail.com",
                 "pass":"abc123"}}
 #print(data["std1"]["email"])
-for stdid, student in data.items():
-    print(student["pass"])
+#for stdid, student in data.items():
+#    print(student["pass"])
 
 """
 Week Task: Create a multi dimensional Dict to store details for atleast five students and ask
@@ -204,10 +204,27 @@ else print "user not found".
 Note: Output should be well detailed.
 """
 
+data = [{"name":"Yasir1",
+                "fname":"Nawaz",
+                "phone":"03000000000",
+                "age":28,
+                "email":"abc@gmail.com",
+                "pass":"abc123"},
+        {"name":"Yasir2",
+                "fname":"Nawaz",
+                "phone":"03000000000",
+                "age":28,
+                "email":"abc@gmail.com",
+                "pass":"abc123"},
+        {"name":"Yasir3",
+                "fname":"Nawaz",
+                "phone":"03000000000",
+                "age":28,
+                "email":"abc@gmail.com",
+                "pass":"abc123"}]
 
 
-
-
+print(data[1]["email"])
 
 
 
